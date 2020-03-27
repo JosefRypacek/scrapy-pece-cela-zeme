@@ -1,0 +1,45 @@
+div.receptbox {
+	page-break-after: always;
+	margin-bottom: 75px;
+	font-size: 15px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+h6 {
+	font-size: 15px;
+	font-weight: bold;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+
+img.imgmain {
+	float: right;
+}
+
+img.imgadd {
+}
+
+blockquote {
+	border-left: 3px solid #00b4ff;
+	padding-left: 10px;
+	page-break-inside: avoid;
+}
+
+p {
+	page-break-inside: avoid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div.imgbox {
+	text-align: center;
+	margin-top: 20px;
+}
+
+div.imgbox img {
+	margin: 2px;
+}
